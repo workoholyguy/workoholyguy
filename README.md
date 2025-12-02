@@ -18,7 +18,7 @@
 - 🌟 Passionate about turning ideas into reality through code
 - 🚀 Always exploring new technologies and frameworks
 - 🎯 Focused on Machine Learning, Web Development, and Mobile Apps
-- 🌐 Fluent in English and Uzbek
+- 🌐 Fluent in English and Russian
 
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
